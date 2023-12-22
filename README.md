@@ -3,6 +3,7 @@
 This is the repository of the website [expressjs.com](https://expressjs.com). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
 
 ## Local Setup
+## Salman Ahmad
 
 To preview the website locally:
 
@@ -23,7 +24,7 @@ To preview the website locally:
 
    ```
    $ bundle install
-   ```
+   ```a
 
    Bundler will look in the Gemfile for which gems to install. The `github-pages` gem includes the same version of Jekyll and other dependencies as used by GitHub Pages, so that your local setup mirrors GitHub Pages as closely as possible.
 
